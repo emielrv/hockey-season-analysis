@@ -1,3 +1,6 @@
 streamlit
 pandas
 pymc
+requests
+numpy
+plotly
